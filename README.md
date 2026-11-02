@@ -32,7 +32,6 @@ https://www.python.org/downloads/
 
 Open your terminal or Command Prompt and run:
 
-bash
 pip install pynput
 
 3. Download & Run CPSkounter
@@ -44,7 +43,7 @@ Then run the cps.py
 
 That's it! You're ready to go. 🚀
 
-🚀 About CPSkounter: REBORN
+CPSkounterREBORN:
 
 This isn't the end its the start of a era that is too good
 
